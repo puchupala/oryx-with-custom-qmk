@@ -1,5 +1,6 @@
 #include QMK_KEYBOARD_H
 #include "version.h"
+#include "kanade.c"
 #define MOON_LED_LEVEL LED_LEVEL
 #define ML_SAFE_RANGE SAFE_RANGE
 
